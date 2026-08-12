@@ -6,6 +6,15 @@
     },
     "feed": [
         {
+            "id": "1786550595881",
+            "title": "KODIAGA 2026",
+            "content": "SKYLARK LOUNGE",
+            "headerImageUrl": "https://raw.githubusercontent.com/c4entertainment/omega-one-newsfeed/main/assets/images/1786550595881",
+            "publishDate": 1786550595881,
+            "type": "event",
+            "topics": []
+        },
+        {
             "id": "1786549314762",
             "title": "MR and MRS OGWENO",
             "content": "",
