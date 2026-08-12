@@ -6,47 +6,20 @@
     },
     "feed": [
         {
-            "id": "1786563898771",
-            "title": "MBITA",
-            "content": "NYAGINA RESORT",
-            "headerImageUrl": "https://raw.githubusercontent.com/c4entertainment/omega-one-newsfeed/main/assets/images/1786563898771",
-            "publishDate": 1786563898772,
+            "id": "1786563547889",
+            "title": "BONDO",
+            "content": "BONDEZ",
+            "headerImageUrl": "https://raw.githubusercontent.com/c4entertainment/omega-one-newsfeed/main/assets/images/1786563547889",
+            "publishDate": 1786563547889,
             "type": "event",
             "topics": []
         },
         {
-            "id": "1786563852950",
-            "title": "OSIRI",
-            "content": "",
-            "headerImageUrl": "https://raw.githubusercontent.com/c4entertainment/omega-one-newsfeed/main/assets/images/1786563852950",
-            "publishDate": 1786563852950,
-            "type": "event",
-            "topics": []
-        },
-        {
-            "id": "1786563815645",
-            "title": "RONGO",
-            "content": "",
-            "headerImageUrl": "https://raw.githubusercontent.com/c4entertainment/omega-one-newsfeed/main/assets/images/1786563815645",
-            "publishDate": 1786563815645,
-            "type": "event",
-            "topics": []
-        },
-        {
-            "id": "1786563784446",
-            "title": "MAWEGO",
-            "content": "",
-            "headerImageUrl": "https://raw.githubusercontent.com/c4entertainment/omega-one-newsfeed/main/assets/images/1786563784446",
-            "publishDate": 1786563784446,
-            "type": "event",
-            "topics": []
-        },
-        {
-            "id": "1786563737774",
-            "title": "LUGARE",
-            "content": "PORT VICTORIA",
-            "headerImageUrl": "https://raw.githubusercontent.com/c4entertainment/omega-one-newsfeed/main/assets/images/1786563737774",
-            "publishDate": 1786563737775,
+            "id": "1786550595881",
+            "title": "KODIAGA 2026",
+            "content": "SKYLARK LOUNGE",
+            "headerImageUrl": "https://raw.githubusercontent.com/c4entertainment/omega-one-newsfeed/main/assets/images/1786550595881",
+            "publishDate": 1786550595881,
             "type": "event",
             "topics": []
         },
@@ -60,11 +33,47 @@
             "topics": []
         },
         {
-            "id": "1786563547889",
-            "title": "BONDO",
-            "content": "BONDEZ",
-            "headerImageUrl": "https://raw.githubusercontent.com/c4entertainment/omega-one-newsfeed/main/assets/images/1786563547889",
-            "publishDate": 1786563547889,
+            "id": "1786563737774",
+            "title": "LUGARE",
+            "content": "PORT VICTORIA",
+            "headerImageUrl": "https://raw.githubusercontent.com/c4entertainment/omega-one-newsfeed/main/assets/images/1786563737774",
+            "publishDate": 1786563737775,
+            "type": "event",
+            "topics": []
+        },
+        {
+            "id": "1786563815645",
+            "title": "RONGO",
+            "content": "",
+            "headerImageUrl": "https://raw.githubusercontent.com/c4entertainment/omega-one-newsfeed/main/assets/images/1786563815645",
+            "publishDate": 1786563815645,
+            "type": "event",
+            "topics": []
+        },
+        {
+            "id": "1786563852950",
+            "title": "OSIRI",
+            "content": "",
+            "headerImageUrl": "https://raw.githubusercontent.com/c4entertainment/omega-one-newsfeed/main/assets/images/1786563852950",
+            "publishDate": 1786563852950,
+            "type": "event",
+            "topics": []
+        },
+        {
+            "id": "1786563898771",
+            "title": "MBITA",
+            "content": "NYAGINA RESORT",
+            "headerImageUrl": "https://raw.githubusercontent.com/c4entertainment/omega-one-newsfeed/main/assets/images/1786563898771",
+            "publishDate": 1786563898772,
+            "type": "event",
+            "topics": []
+        },
+        {
+            "id": "1786563784446",
+            "title": "MAWEGO",
+            "content": "",
+            "headerImageUrl": "https://raw.githubusercontent.com/c4entertainment/omega-one-newsfeed/main/assets/images/1786563784446",
+            "publishDate": 1786563784446,
             "type": "event",
             "topics": []
         },
@@ -75,15 +84,6 @@
             "headerImageUrl": "https://raw.githubusercontent.com/c4entertainment/omega-one-newsfeed/main/assets/images/1786553174650",
             "publishDate": 1786553174651,
             "type": "archive",
-            "topics": []
-        },
-        {
-            "id": "1786550595881",
-            "title": "KODIAGA 2026",
-            "content": "SKYLARK LOUNGE",
-            "headerImageUrl": "https://raw.githubusercontent.com/c4entertainment/omega-one-newsfeed/main/assets/images/1786550595881",
-            "publishDate": 1786550595881,
-            "type": "event",
             "topics": []
         },
         {
