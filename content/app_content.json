@@ -188,6 +188,21 @@
                     "index": "01",
                     "caption": "OGWENO",
                     "image": "https://raw.githubusercontent.com/c4entertainment/omega-one-newsfeed/main/assets/images/about-legend-1786545705165"
+                },
+                {
+                    "index": "02",
+                    "caption": "DJ MIKE",
+                    "image": "https://raw.githubusercontent.com/c4entertainment/omega-one-newsfeed/main/assets/images/about-legend-1786547136336"
+                },
+                {
+                    "index": "03",
+                    "caption": "NINJAMAN",
+                    "image": "https://raw.githubusercontent.com/c4entertainment/omega-one-newsfeed/main/assets/images/about-legend-1786547208829"
+                },
+                {
+                    "index": "04",
+                    "caption": "DJ MILTON",
+                    "image": "https://raw.githubusercontent.com/c4entertainment/omega-one-newsfeed/main/assets/images/about-legend-1786547289744"
                 }
             ]
         },
@@ -206,11 +221,6 @@
                     "text": "Concert stage build and 130 kVA of generator on site, so the show does not stop with the grid."
                 },
                 {
-                    "icon": "mic",
-                    "title": "Sound Check Studio",
-                    "text": "Tracking and mixing in Kisumu, in the room where Nyadundo and Onyi Papa Jay recorded."
-                },
-                {
                     "icon": "album",
                     "title": "Mobile disco",
                     "text": "The original business. Benga, ohangla and rumba, read off the floor by DJs who know the room."
@@ -224,6 +234,11 @@
                     "icon": "groups",
                     "title": "DJ development",
                     "text": "Don Ben, DJ Mike, Kim and Charley all learned the ropes here before moving on."
+                },
+                {
+                    "icon": "mic",
+                    "title": "Sound Check Studio (Closed)",
+                    "text": "Tracking and mixing in Kisumu, in the room where Nyadundo and Onyi Papa Jay recorded."
                 }
             ]
         },
