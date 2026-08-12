@@ -105,14 +105,14 @@
             "lede": "Omega One has been a household name in western Kenya since 1983 — a mobile disco that grew into a sound company, a concert stage and a recording studio. The rivals it started against, Intercity, Funkatek and Galaxy, are all gone.",
             "milestones": [
                 {
-                    "year": "1983",
-                    "title": "Omega One begins",
-                    "text": "He names the mobile disco Omega One — the first and the last of its kind. Intercity, Funkatek and Galaxy all came after, and none of them lasted."
-                },
-                {
                     "year": "1982",
                     "title": "Out of the cockpit",
                     "text": "Ogweno joins the Kenya Air Force as a flight cadet and trains as a pilot in the UK. After the attempted coup he is detained, and on release he leaves the force for good."
+                },
+                {
+                    "year": "1983",
+                    "title": "Omega One begins",
+                    "text": "He names the mobile disco Omega One — the first and the last of its kind. Intercity, Funkatek and Galaxy all came after, and none of them lasted."
                 },
                 {
                     "year": "1990s",
