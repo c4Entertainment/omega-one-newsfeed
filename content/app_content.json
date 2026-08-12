@@ -151,14 +151,19 @@
             "shots": [
                 {
                     "index": "01",
-                    "caption": "Sound Check Studio, Kisumu"
+                    "caption": "Our Sound Engineer, Paul",
+                    "image": "https://raw.githubusercontent.com/c4entertainment/omega-one-newsfeed/main/assets/images/about-shot-1786544091363"
                 },
                 {
                     "index": "02",
-                    "caption": "Line array and stage"
+                    "caption": "Sound Check Studio, Kisumu"
                 },
                 {
                     "index": "03",
+                    "caption": "Line array and stage"
+                },
+                {
+                    "index": "04",
                     "caption": "On the road, western Kenya"
                 }
             ]
