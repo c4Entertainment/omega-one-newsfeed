@@ -1,55 +1,10 @@
 [
     {
-        "id": "1786563547889",
-        "title": "BONDO",
-        "content": "BONDEZ",
-        "headerImageUrl": "https://raw.githubusercontent.com/c4entertainment/omega-one-newsfeed/main/assets/images/1786563547889",
-        "publishDate": 1786563547889,
-        "type": "event",
-        "topics": []
-    },
-    {
-        "id": "1786550595881",
-        "title": "KODIAGA 2026",
-        "content": "SKYLARK LOUNGE",
-        "headerImageUrl": "https://raw.githubusercontent.com/c4entertainment/omega-one-newsfeed/main/assets/images/1786550595881",
-        "publishDate": 1786550595881,
-        "type": "event",
-        "topics": []
-    },
-    {
-        "id": "1786563684288",
-        "title": "USENGE",
+        "id": "1786563784446",
+        "title": "MAWEGO",
         "content": "",
-        "headerImageUrl": "https://raw.githubusercontent.com/c4entertainment/omega-one-newsfeed/main/assets/images/1786563684288",
-        "publishDate": 1786563684288,
-        "type": "event",
-        "topics": []
-    },
-    {
-        "id": "1786563737774",
-        "title": "LUGARE",
-        "content": "PORT VICTORIA",
-        "headerImageUrl": "https://raw.githubusercontent.com/c4entertainment/omega-one-newsfeed/main/assets/images/1786563737774",
-        "publishDate": 1786563737775,
-        "type": "event",
-        "topics": []
-    },
-    {
-        "id": "1786563815645",
-        "title": "RONGO",
-        "content": "",
-        "headerImageUrl": "https://raw.githubusercontent.com/c4entertainment/omega-one-newsfeed/main/assets/images/1786563815645",
-        "publishDate": 1786563815645,
-        "type": "event",
-        "topics": []
-    },
-    {
-        "id": "1786563852950",
-        "title": "OSIRI",
-        "content": "",
-        "headerImageUrl": "https://raw.githubusercontent.com/c4entertainment/omega-one-newsfeed/main/assets/images/1786563852950",
-        "publishDate": 1786563852950,
+        "headerImageUrl": "https://raw.githubusercontent.com/c4entertainment/omega-one-newsfeed/main/assets/images/1786563784446",
+        "publishDate": 1786563784446,
         "type": "event",
         "topics": []
     },
@@ -63,11 +18,56 @@
         "topics": []
     },
     {
-        "id": "1786563784446",
-        "title": "MAWEGO",
+        "id": "1786563852950",
+        "title": "OSIRI",
         "content": "",
-        "headerImageUrl": "https://raw.githubusercontent.com/c4entertainment/omega-one-newsfeed/main/assets/images/1786563784446",
-        "publishDate": 1786563784446,
+        "headerImageUrl": "https://raw.githubusercontent.com/c4entertainment/omega-one-newsfeed/main/assets/images/1786563852950",
+        "publishDate": 1786563852950,
+        "type": "event",
+        "topics": []
+    },
+    {
+        "id": "1786563815645",
+        "title": "RONGO",
+        "content": "",
+        "headerImageUrl": "https://raw.githubusercontent.com/c4entertainment/omega-one-newsfeed/main/assets/images/1786563815645",
+        "publishDate": 1786563815645,
+        "type": "event",
+        "topics": []
+    },
+    {
+        "id": "1786563737774",
+        "title": "LUGARE",
+        "content": "PORT VICTORIA",
+        "headerImageUrl": "https://raw.githubusercontent.com/c4entertainment/omega-one-newsfeed/main/assets/images/1786563737774",
+        "publishDate": 1786563737775,
+        "type": "event",
+        "topics": []
+    },
+    {
+        "id": "1786563684288",
+        "title": "USENGE",
+        "content": "",
+        "headerImageUrl": "https://raw.githubusercontent.com/c4entertainment/omega-one-newsfeed/main/assets/images/1786563684288",
+        "publishDate": 1786563684288,
+        "type": "event",
+        "topics": []
+    },
+    {
+        "id": "1786550595881",
+        "title": "KODIAGA 2026",
+        "content": "SKYLARK LOUNGE",
+        "headerImageUrl": "https://raw.githubusercontent.com/c4entertainment/omega-one-newsfeed/main/assets/images/1786550595881",
+        "publishDate": 1786550595881,
+        "type": "event",
+        "topics": []
+    },
+    {
+        "id": "1786563547889",
+        "title": "BONDO",
+        "content": "BONDEZ",
+        "headerImageUrl": "https://raw.githubusercontent.com/c4entertainment/omega-one-newsfeed/main/assets/images/1786563547889",
+        "publishDate": 1786563547889,
         "type": "event",
         "topics": []
     },
