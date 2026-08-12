@@ -6,6 +6,15 @@
     },
     "feed": [
         {
+            "id": "1786547915251",
+            "title": "SOUNDCHECK DAYS",
+            "content": "",
+            "headerImageUrl": "https://raw.githubusercontent.com/c4entertainment/omega-one-newsfeed/main/assets/images/1786547915251",
+            "publishDate": 1786547915252,
+            "type": "archive",
+            "topics": []
+        },
+        {
             "id": "1756884615205",
             "title": "Bien live at baniyas",
             "content": "powered OMEGAONE ",
