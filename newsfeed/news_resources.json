@@ -36,24 +36,6 @@
         "topics": []
     },
     {
-        "id": "1756884615205",
-        "title": "Bien live at baniyas",
-        "content": "powered OMEGAONE ",
-        "headerImageUrl": "https://raw.githubusercontent.com/c4entertainment/omega-one-newsfeed/main/assets/images/1756884615205",
-        "publishDate": 1756884615205,
-        "type": "",
-        "topics": [
-            {
-                "id": "1",
-                "name": "Event",
-                "shortDescription": "New Event Coming Up",
-                "longDescription": "New Event Coming Up",
-                "imageUrl": "https://example.com/compose.jpg",
-                "url": "https://example.com"
-            }
-        ]
-    },
-    {
         "id": "1742592906444",
         "title": "CHAMPION SESSIONS 1",
         "content": "Champion Sound",
