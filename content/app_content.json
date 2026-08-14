@@ -6,15 +6,6 @@
     },
     "feed": [
         {
-            "id": "1786563898771",
-            "title": "MBITA",
-            "content": "NYAGINA RESORT",
-            "headerImageUrl": "https://raw.githubusercontent.com/c4entertainment/omega-one-newsfeed/main/assets/images/1786563898771",
-            "publishDate": 1786563898772,
-            "type": "event",
-            "topics": []
-        },
-        {
             "id": "1786563852950",
             "title": "OSIRI",
             "content": "",
@@ -214,31 +205,37 @@
                 {
                     "index": "01",
                     "caption": "Boss, Charles Ogweno",
+                    "description": "",
                     "image": "https://raw.githubusercontent.com/c4entertainment/omega-one-newsfeed/main/assets/images/about-shot-1786613930209"
                 },
                 {
                     "index": "02",
                     "caption": "Our Sound Engineer, Paul",
+                    "description": "",
                     "image": "https://raw.githubusercontent.com/c4entertainment/omega-one-newsfeed/main/assets/images/about-shot-1786614943604"
                 },
                 {
                     "index": "03",
                     "caption": "Our Software Engineer, C4",
+                    "description": "",
                     "image": "https://raw.githubusercontent.com/c4entertainment/omega-one-newsfeed/main/assets/images/about-shot-1786615020654"
                 },
                 {
                     "index": "04",
                     "caption": "Line array and stage",
+                    "description": "",
                     "image": "https://raw.githubusercontent.com/c4entertainment/omega-one-newsfeed/main/assets/images/about-shot-1786615185947"
                 },
                 {
                     "index": "05",
                     "caption": "On the road, western Kenya",
+                    "description": "",
                     "image": "https://raw.githubusercontent.com/c4entertainment/omega-one-newsfeed/main/assets/images/about-shot-1786545859135"
                 },
                 {
                     "index": "06",
                     "caption": "Screens and Lights Set Up",
+                    "description": "",
                     "image": "https://raw.githubusercontent.com/c4entertainment/omega-one-newsfeed/main/assets/images/about-shot-1786615120474"
                 }
             ]
@@ -250,31 +247,37 @@
                 {
                     "index": "01",
                     "caption": "OGWENO",
+                    "description": "",
                     "image": "https://raw.githubusercontent.com/c4entertainment/omega-one-newsfeed/main/assets/images/about-legend-1786545705165"
                 },
                 {
                     "index": "02",
                     "caption": "DJ MIKE",
+                    "description": "",
                     "image": "https://raw.githubusercontent.com/c4entertainment/omega-one-newsfeed/main/assets/images/about-legend-1786547136336"
                 },
                 {
                     "index": "03",
                     "caption": "NINJAMAN",
+                    "description": "",
                     "image": "https://raw.githubusercontent.com/c4entertainment/omega-one-newsfeed/main/assets/images/about-legend-1786547208829"
                 },
                 {
                     "index": "04",
                     "caption": "DJ MILTON",
+                    "description": "",
                     "image": "https://raw.githubusercontent.com/c4entertainment/omega-one-newsfeed/main/assets/images/about-legend-1786547289744"
                 },
                 {
                     "index": "05",
                     "caption": "DJ ARIFFIX",
+                    "description": "",
                     "image": "https://raw.githubusercontent.com/c4entertainment/omega-one-newsfeed/main/assets/images/about-legend-1786550386270"
                 },
                 {
                     "index": "06",
                     "caption": "DJ FIASCO",
+                    "description": "",
                     "image": "https://raw.githubusercontent.com/c4entertainment/omega-one-newsfeed/main/assets/images/about-legend-1786550420978"
                 }
             ]
